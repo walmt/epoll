@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<epoll>
+    <backlog>10</backlog>
+    <ports>
+        <port>2333</port>
+    </ports>
+</epoll>
